@@ -1,0 +1,9 @@
+{
+  "name": "dj-assistant",
+  "version": "1.0.0",
+  "dependencies": {
+    "react": "^18.0.0",
+    "axios": "^0.27.2",
+    "framer-motion": "^4.1.17"
+  }
+}
