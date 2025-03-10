@@ -1,0 +1,7 @@
+.env
+*.csv
+*.xml
+__pycache__/
+node_modules/
+faiss_index.idx
+ncf_model.pth
