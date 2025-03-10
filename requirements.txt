@@ -1,0 +1,7 @@
+spotipy
+openai
+pandas
+flask
+torch
+faiss-cpu
+numpy
