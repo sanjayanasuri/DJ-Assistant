@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<DJ_PLAYLISTS Version="1.0.0">
-  <COLLECTION Entries="2">
-    <TRACK TrackID="1" Name="Song One" Artist="Artist A" AverageBpm="128" Tonality="G#m"/>
-    <TRACK TrackID="2" Name="Song Two" Artist="Artist B" AverageBpm="124" Tonality="Am"/>
-  </COLLECTION>
-</DJ_PLAYLISTS>
