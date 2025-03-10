@@ -1,1 +1,1 @@
-
+Hello! I've been DJ'ing for about three months now. I use a mixing software called Rekordbox where tracks are loaded with information such as BPM and Key, making the mixing process simpler. However, I figured more features such as energy, danceability, and valence would improve the selection process. As such, I've built an ML model, utilizing the Spotify Audio Analysis API to extract features and OpenAI's GPT-4o model to normalize metadata parsed from Rekordbox XML Files. 
