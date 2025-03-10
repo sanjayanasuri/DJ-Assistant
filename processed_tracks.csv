@@ -1,0 +1,3 @@
+id,title,artist,bpm,key,spotify_id,spotify_url,recommended_tracks
+1,Song One,Artist A,128,G#m,3n3Ppam7vgaVa1iaRUc9Lp,https://open.spotify.com/track/3n3Ppam7vgaVa1iaRUc9Lp,"['Song Three', 'Song Five']"
+2,Song Two,Artist B,124,Am,5Hroj5K7vLpIG4FNCRIjbP,https://open.spotify.com/track/5Hroj5K7vLpIG4FNCRIjbP,"['Song Four', 'Song Six']"
